@@ -2,9 +2,9 @@
 <br>
 Accurate fruit counting across multiple views using YOLO detection and homography alignment. Image detection model for counting number of fruits using YOLO,Open-cv and numpy.
 This project uses a YOLO (You Only Look Once) model to detect fruits in front and back view images. It aligns both views using homography and counts unique fruits based on their position and color.
-<br>
+
 ## Features  
-<br>
+
 1. **Dual-View Fruit Detection**  
    - Detects fruits in both front and back view images using YOLOv8  
    - Maintains view context for each detected fruit  
@@ -66,7 +66,7 @@ pip install opencv-python numpy ultralytics
 │   └── 📂8                      # Example image pair
 │       ├── front.jpg           # Front view image
 │       └── back.jpg            # Back view image
-├── fruit_detection.py          # Main detection script
+├── fruit_detection.ipynb         # Main detection script
 ├── best.pt                     # YOLOv8 model weights
 └── README.md                   # This documentation
 ```
