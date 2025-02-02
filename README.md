@@ -57,7 +57,7 @@ Center: (300, 400), Color: Green
 <br>
 Total unique fruits detected: 5
 <br>
-
+<br>
 File Structure
 <br>
 📂 UAS_DTU_Fruit_Detection
