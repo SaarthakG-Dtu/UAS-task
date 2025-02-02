@@ -32,17 +32,17 @@ pip install opencv-python numpy ultralytics
 Usage
 <br>
 1. Model Setup
-    <br>
+<br>
 Download or train a YOLO model and place it in the project directory.
 <br>
-
+<br>
 2. Run the Script
 <br>
 Modify the file paths in count_unique_fruits() and run:
 <br>
 python fruit_detection.py
 <br>
-
+<br>
 3. Output
 <br>
 The script prints detected unique fruits along with their colors:
@@ -54,10 +54,12 @@ Center: (150, 200), Color: Red
 Center: (300, 400), Color: Green
 <br>
 ...
+<br>
 Total unique fruits detected: 5
 <br>
-File Structure
 
+File Structure
+<br>
 📂 UAS_DTU_Fruit_Detection
 <br>
  ├── fruit_detection.py  # Main detection script
