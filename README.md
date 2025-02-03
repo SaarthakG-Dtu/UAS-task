@@ -53,7 +53,7 @@ pip install opencv-python numpy ultralytics
 
 ## Customization  
 
-| Component            | Location                     | Key Parameters                |
+| Component            | Location                     | Key Parameters                 |
 |----------------------|------------------------------|--------------------------------|
 | Color Detection      | `detect_color()`             | `color_masks` dictionary       |
 | Alignment Accuracy   | `align_views()`              | `nfeatures=2000`, RANSAC threshold |
@@ -66,7 +66,7 @@ pip install opencv-python numpy ultralytics
 │   └── 📂8                      # Example image pair
 │       ├── front.jpg           # Front view image
 │       └── back.jpg            # Back view image
-├── fruit_detection.ipynb         # Main detection script
+├── **fruit_detection.ipynb**        # Main detection script
 ├── best.pt                     # YOLOv8 model weights
 └── README.md                   # This documentation
 ```
