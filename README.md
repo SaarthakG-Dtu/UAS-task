@@ -44,7 +44,7 @@ pip install opencv-python numpy ultralytics
 3. **Sample Output**  
    ```
    Unique Fruits and Their Colors:
-   View: Front, Color: Purple
+   View: Both, Color: Purple
    View: Back, Color: Yellow
    View: Front, Color: Green
 
