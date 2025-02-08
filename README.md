@@ -20,7 +20,7 @@ This project uses a YOLO (You Only Look Once) model to detect fruits in front an
 
 4. **Unique Fruit Counting**  
    - Matches fruits across views using color + spatial proximity  
-   - Prints detailed report of unmatched fruits  
+   - Prints detailed report of unique fruits  
 
 ## Installation  
 ```bash
